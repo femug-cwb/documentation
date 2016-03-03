@@ -10,7 +10,7 @@ O evento **NÃO** pode visar o lucro de um ou mais organizadores. É igualmente 
 
 Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir conhecimentos relacionados ao front-end e tecnologias periféricas relacionadas.
 
-> :warning: **[Leia esse avivo IMPORTANTE!](/aviso.md)**
+> :warning: **[Leia esse avivo IMPORTANTE!](/AVISO.md)**
 
 _Para maiores informações sobre o FEMUG da uma olhadinha [aqui](https://github.com/femug/femug "FEMUG BR")_
 
